@@ -8,8 +8,7 @@
 <h1>
 	Hello world!  
 </h1>
-	<p>디스 이즈 더 홈!</p>  
-	왜 적용이 안되나
+	<h1>,,,,</h1>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
